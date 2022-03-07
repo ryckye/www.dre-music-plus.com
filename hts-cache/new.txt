@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:59:22	280/280	---M--	200	added ('Robots.txt')	text/plain	date:Mon,%2007%20Mar%202022%2000:59:22%20GMT	https://dev-dremusicplus.pantheonsite.io/robots.txt		(from )
+16:59:22	117334/117334	---M-Z	200	added ('OK')	text/html	date:Mon,%2007%20Mar%202022%2000:59:22%20GMT	https://dev-dremusicplus.pantheonsite.io/	E:/S/New%20folder/New%20folder/New%20folder/New%20folder%20(2)/index/dev-dremusicplus.pantheonsite.io/index.html	(from )
